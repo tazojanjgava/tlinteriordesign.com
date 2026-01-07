@@ -28,8 +28,8 @@ const Header = () => {
     >
       <nav className="container mx-auto px-6 md:px-12 lg:px-20 flex items-center justify-between">
         <div className="font-serif text-xl md:text-2xl font-medium tracking-tight">
-          <span className="text-primary">Élégance</span>
-          <span className="text-foreground"> Interiors</span>
+          <span className="text-primary">TL</span>
+          <span className="text-foreground"> Design</span>
         </div>
         
         <ul className="hidden md:flex items-center gap-10">

@@ -9,7 +9,7 @@ const Footer = () => {
           </div>
           
           <p className="text-cream/50 text-sm">
-            © {new Date().getFullYear()} Élégance Interiors. All rights reserved.
+            © {new Date().getFullYear()} ÉlégaInteriors. All rights reserved.
           </p>
           
           <div className="flex items-center gap-6">

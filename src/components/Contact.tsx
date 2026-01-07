@@ -42,7 +42,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <div className="text-xs uppercase tracking-widest text-muted-foreground mb-1">Email</div>
-                  <div className="text-foreground">hello@eleganceinteriors.com</div>
+                  <div className="text-foreground">hello@tldesign.com</div>
                 </div>
               </div>
               
